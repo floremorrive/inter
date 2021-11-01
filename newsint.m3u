@@ -27,11 +27,8 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1, CGTNes
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1, kbsw
-https://r6---sn-hv8pnu5gjv-c59e.googlevideo.com/videoplayback?expire=1632379341&ei=bc1LYaL9OK3ckAS_4JvgDQ&ip=186.118.68.176&id=zBli-UU2s_U.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Hj&mm=44%2C29&mn=sn-hv8pnu5gjv-c59e%2Csn-hp57yne7&ms=lva%2Crdu&mv=m&mvi=6&pcm2cms=yes&pl=22&gcr=co&initcwndbps=461250&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=TUk0A5_VhKpjPSow_nf8Dg4G&gir=yes&mt=1632357387&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=5r3s_e9LXZrYrg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhANEGH_Im-TtdA8FZiMSLsUlgD_rLt2M9ZKiOLq39c1DqAiAFq8Np1HCUs9VEKkOfBhWpdQzk9J10TTVXYVYrLjJClw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgesXtOCDnlSYdt_K2XRyfMDjLoOHiGiIjeJs1Bbgmc68CIQDx-eu0F8LhiLrCMuw6G8VTarXk7BnfNSKqu6nJT82cWg%3D%3D&alr=yes&cpn=R9-E2E17xQt2X_6_&cver=1.20210919.0.0&sq=611878&rn=3&rbuf=4899
-
-#EXTINF:-1, kbs1
-https://1tvhd.gscdn.kbs.co.kr/1tv-02/1tv-02_hd.m3u8?Expires=1632487841&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHZoZC5nc2Nkbi5rYnMuY28ua3IvMXR2LTAyLzF0di0wMl9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjMyNDg3ODQxfX19XX0_&Signature=oFQc2j~~BAkQ54jzLbORiAqLA8yJcphaePyXutQ6cs3AepCYKtTDDqr7bJMMNb28BR3VZbxyoPE1KGxzXX9aWvwZjQhbnG3d7IclI05CrLXir~7pK~EWTFFQoBvK8Mio7qFt3He5qlzSgCeOg6t9MOcY3S0v721WQ0tkFjWCsJ4Wqrpec~uq~6X4efBc6nfcpeKmuVzMkY~K66Ei3oBCDkMMYqH6uLoffShuwuyMKnjnvyjvEuplJUTvHr8KxuCsnMTIr6yquEN1Qh9~fBJ~TDoEZjqE7m0ulPYxal8lImIF-GuK5ld72hgjWVhY3oQp28aIeQwf3ipjzdS3w3gKuA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1, Teleclub
+https://tv.teleclub.xyz/live/tv.m3u
 
 #EXTINF:-1, VIKI
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
