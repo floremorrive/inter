@@ -4,10 +4,10 @@
 https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:-1, NBC
-https://xxbnziss6u5lk5.data.mediastore.us-east-1.amazonaws.com/live/master.m3u8
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 
 #EXTINF:-1, NBC Live
-https://tr4ee.herokuapp.com/https://cdn1-7p.teleuptv.net/4152c2b2-016e-4722-9fa3-6aa4c140cddc/tracks-v3a1/mono.m3u8
+https://spt7.teleuptv.net/4152c2b2-016e-4722-9fa3-6aa4c140cddc/index.m3u8
 
 #EXTINF:-1, usatoday
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
@@ -27,8 +27,11 @@ https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1, CGTNes
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1, Teleclub
-https://tv.teleclub.xyz/live/tv.m3u
-
 #EXTINF:-1, VIKI
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, HBO
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.mpd
+
+#EXTINF:-1, Star Series
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOX1HD/SA_Live_dash_enc_2A/FOX1HD.mpd
