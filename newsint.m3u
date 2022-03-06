@@ -35,3 +35,9 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc_2A/HBOHD.
 
 #EXTINF:-1, Star Series
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOX1HD/SA_Live_dash_enc_2A/FOX1HD.mpd
+
+#EXTINF:-1, DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1, DW-english
+https://photocall.tv/v6hr/l1?ch=dw_en
