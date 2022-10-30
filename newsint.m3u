@@ -16,23 +16,25 @@ https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/p
 https://pbs-samsunguk.amagi.tv:443/playlist720-p.m3u8
 
 #EXTINF:-1, RTen
-https://vkvsd67.mycdn.me:443/hls/2906137102914.m3u8/sig/IPEc0fLnfAw/srcIp/152.202.136.22/expires/1666694627904/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/3869256526658/id/2906137102914/2906137102914_high/index.m3u8
+https://rt-glb.rttv.com:443/live/rtnews/playlist_2500Kb.m3u8
 
 #EXTINF:-1, RTes
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1, CGTNen
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1, CGTNes
-https://livees.cgtn.com/1000e/prog_index.m3u8
+https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1, VIKI
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, NFL
-https://csm-e-cetubiausw2live204-08cff18de4dfa0955.csm.tubi.video/csm/live/371533626/2.m3u8;jsessionid=556BB193AAA5C10B5C9807C05EAFCB36.csm-e-cetubiausw2live204-08cff18de4dfa0955.csm.tubi.video?playback_start_ts=1666235536.745&externalId=NFL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8?playback_start_ts=1667151502.110
 
+#EXTINF:-1, MLB
+https://tve-live.mlb.com/1667171586_f6e1bb315467033cc584f1b7fe4f6256a309924da6fbb25ffd9b5f97dab816c3/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net.m3u8
 #EXTINF:-1, Star Series
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOX1HD/SA_Live_dash_enc_2A/FOX1HD.mpd
 
