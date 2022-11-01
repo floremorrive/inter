@@ -19,10 +19,10 @@ https://pbs-samsunguk.amagi.tv:443/playlist720-p.m3u8
 https://rt-glb.rttv.com:443/live/rtnews/playlist_2500Kb.m3u8
 
 #EXTINF:-1, RTes
-https://rt-esp.rttv.com:443/live/rtesp/playlist_2500Kb.m3u8
+https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1, CGTNen
-https://live.cgtn.com/1000/prog_index.m3u8
+https://liveen.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1, CGTNes
 https://livees.cgtn.com/1000e/prog_index.m3u8
