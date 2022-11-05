@@ -34,8 +34,7 @@ https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8?playback_start_ts=1667151502.110
 
 #EXTINF:-1, MLB
-https://tve-live.mlb.com:443/1667289681_e6615555fe491c72163ac6fd178a96bfc09b8b3793efb35535fbccc92a72d253/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net_b-enc_3372K.m3u8
-
+https://dragaoconnect01.herokuapp.com/dce-ak-livedazn.akamaized.net/dashdrm/dazn-linear-026/1/audio_128kbps/D80048770690048.cmfa
 #EXTINF:-1, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
