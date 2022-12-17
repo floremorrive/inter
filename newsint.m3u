@@ -30,6 +30,9 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1, VIKI
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 
+#EXTINF:-1, KBS
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1671322606&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3MTMyMjYwNn19fV19&Signature=Xj6d~qGSTMMg5gKGheSn9GSG8yh4k-4quIWEIs4TNx36PMPB2B9tdOLU3~FpsxwIgoQutvuZdDi-EWidIs4E-l7oCVggNTA0fbv5yZtUMYIMdkXre0dmn9uPZBdigy6D8tSKAjS1es32J1kTRYwEVIPnm-4~d~pxp6htjvoijbzfgihwKEjIDU03Et-nglwmAe2T~Pvw7b3GQ84BGyGaFNRLtYBJCTHZbjfUgf5x8JhvT4xRIJ9Li3DXgD71Vv4xPAHHf2x8j4LDbTL4z4G6WsJ4nwMRWFkTVJy3Mq~F~fXvvRLd4PEdP6JOCL1MpDbfIaUWUNqHeat0boF4Khmyag__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
 #EXTINF:-1, NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8?playback_start_ts=1667151502.110
 
