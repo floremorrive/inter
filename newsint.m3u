@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, CNNINTERNACIONAL
-https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_5_864000.m3u8
 
 #EXTINF:-1, NBC
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
@@ -50,5 +50,5 @@ https://citytv.cachefly.net/citytv1/citytv1/playlist.m3u8
 #EXTINF:-1, red mas
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
-#EXTINF:-1, barcelona
-https://streamamg-fcbar01.akamaized.net/hls/live/2040130/0_fcq6zq7g/360p/hdntl=exp=1667238454~acl=%2f*~data=hdntl~hmac=33e58f995eba26c4e595fa7831b21b237d4431ba2b7871cf81ee3a2940a84518/prog_index.m3u8
+#EXTINF:-1, telecaribe
+https://dcs-live.mp.lura.live/server/play/d3zrDTGrqagTNWJGr/manifest.m3u8?encp=yf6gFrcbFN0sRhzEy3WNMA:IXSGJu9PYFh04nFHnofLBtFLbSbpWYiXi_y7It0P8sBtRR042MyGnYHHJTXErNgG6E-bAi0uVxtaFEqirkuyXYToAIDJ3sNUjDssd2N2gRBawhIi9YZEgDEX_gCoXRKo6lFGWmI2K1kxgHKBHwyZjG8D4qOnw4qM_5ZKgMrMVwKvEgK-vabzKeI3OO_1K8MYOdazqHVJllCT8b5jRV10EL8cXKft4xwLEeFyJmsWIvtAKpCB6LlNa8mobNruEAVTJbmgnL0YxjOJiM6QAtlR9BBNMBxm_Tcfaqwedpc2MF0DQke9QxfhKh0pDTIBO0voDk5XKHeRo0rxrQGI-mVl0-FEvyoWLpwIuMI4IdjRnldV2ln4m8Wowhd4M1uWks4ZfwPqDONHeH-HxE1XDi9y1UdUBLeu7mUJKUjtE82iHBVxZDaOc3j5ERxiuo2VC4PPjnYmLMTPR2P6lHNrXCGaWG1DZJ2ix2gpE8Aj3fc-N2xcnkXqM6k_LWrKhnP3QDDmApTkzxL2mZ8h2-mqFmGouSIczN9nnxg8x4AlGbkxnUK-4h2iXjoxfLXJ0YlDCtMraUXcAWbMDqd9DLII-5ZiY0i2QRIxopT_U5CerMPrk_EZ2LF6G8W7ZeDEkyu4maV_&anvtrid=da5e0b564e2f912077c7385a69311038&anvauth=tb=0~te=1673656084~sgn=e4a6c4ce1d230bf3964984ba2746b630d40cfdce1d98580fa6400a60b20018e4&t=1673655994
