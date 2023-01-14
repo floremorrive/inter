@@ -6,11 +6,11 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_5_
 #EXTINF:-1, NBC
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 
-#EXTINF:-1, NBC Live
-https://cdn1-7p.teleuptv.net/807bc362-f682-4ffd-bc70-ed2b9deb8ff5/index.m3u8
+#EXTINF:-1, the guardian
+https://rakuten-guardian-1-eu.rakuten.wurl.tv:443/2000.m3u8
 
 #EXTINF:-1, usatoday
-https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-rokuusatodaynews/CDN/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 
 #EXTINF:-1, PBS
 https://pbs-samsunguk.amagi.tv:443/playlist720-p.m3u8
@@ -32,16 +32,17 @@ https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, KBS
 https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1673748641&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3Mzc0ODY0MX19fV19&Signature=G13lM7gEkWquh6EoL-iId1gw0Mp0mmTeuYZzxDVzNQKDk5lcah0IwlKKcNUtRJQ9gzSZqBa6IoF2biH0OX8AvNq3WDoXh4l00GyUl2aXQ4Ynvkg3vd6C0RMggdQLMvOqPJzp7zMgYGhFb~lsGhlmXKK8CucTIdvdkHVKW10qmyQR-y~vbuIsxwfoiHBkJtmyWyjNmm1kx8G9KuT-BseBd9kdFD9pNeL22CeT~QfRhCa5gn--lLwDv~b3v-Nu52~QH4M1tyq6EgUqVDYphBXPGl4tHOK9PEeNT~uZJZtoiomF~-DNTn56m3e698WHo97jhF4NuNqMCmVDTrI2vWV~pw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
 #EXTINF:-1, NFL
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8?playback_start_ts=1667151502.110
 
 #EXTINF:-1, MLB
-https://dragaoconnect01.herokuapp.com/dce-ak-livedazn.akamaized.net/dashdrm/dazn-linear-026/1/audio_128kbps/D80048770690048.cmfa
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-mlb-sportstribal/playlist.m3u8
 #EXTINF:-1, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1, DW-english
-https://photocall.tv/v6hr/l1?ch=dw_en
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1, City tv
 https://citytv.cachefly.net/citytv1/citytv1/playlist.m3u8
@@ -50,4 +51,7 @@ https://citytv.cachefly.net/citytv1/citytv1/playlist.m3u8
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
 #EXTINF:-1, telecaribe
-https://dcs-live-ue1.mp.lura.live/server/play/d3zrDTGrqagTNWJGr/rendition.m3u8?track=video-4&anvsid=m177618708-n8d6fb309b38e1311f603e45ae7d8776f&ts=1673657642&anvtrid=fef8874b42bc6f2259fab92a44771c8e
+https://dcs-live-ue1.mp.lura.live/server/play/qRNQEfZ4Rd9snRxLQ/rendition.m3u8?track=video-4&anvsid=m177618715-n35db507801568f57b655ef8583092b60&ts=1673736242&anvtrid=bba6e167f7481d39400dcb4d0c839885
+
+#EXTINF:-1, NBA
+https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd
