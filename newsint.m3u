@@ -44,5 +44,5 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1, DW-english
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1, City TNT
+#EXTINF:-1, TNT
 https://1227-vos.dtvott.com/DASH/manifest.mpd
