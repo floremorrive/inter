@@ -34,3 +34,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1, CNN News
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1, A&E
+https://list.iptvcat.com/my_list/s/ee6e44109b24acf1aa10df64c45805c4.m3u8
+#EXTINF:-1, A&E Houston
+https://list.iptvcat.com/my_list/s/af2543ae56e994c6c4b5f67e2c2ab00b.m3u8
+#EXTINF:-1, NBC Sports SD
+http://46.166.171.183:8080/Viejo1/hPaUPsnrIX/163452?checkedby:iptvcat.org
